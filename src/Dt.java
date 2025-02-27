@@ -10,7 +10,7 @@ public class Dt {
         System.out.println(grade_double);
         System.out.println(first);
         System.out.println(isok);
-        
+
 
 
 
